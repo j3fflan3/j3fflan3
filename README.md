@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @j3fflan3
-- 👀 I’m interested in Music
-- 🌱 I’m currently learning Go
+- 👀 I’m am a musician and composer
+- 🌱 I am a Gopher in continual training
 
 <!---
 j3fflan3/j3fflan3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
